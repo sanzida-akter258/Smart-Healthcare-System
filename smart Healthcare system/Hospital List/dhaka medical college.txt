@@ -1,0 +1,7 @@
+dhaka medical college
+dhaka
+59
+Icu,CT scan,X-ray,burn unit
+145595489
+-----------------------------------------------------
+
